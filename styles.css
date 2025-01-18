@@ -249,8 +249,7 @@
     }
 
     header {
-        background: #299900;
-        /* background: #005f99; */
+        background: #005f99;
         color: #fff;
         padding: 1rem 0;
         position: fixed;
@@ -258,7 +257,6 @@
         top: 0;
         z-index: 1000;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-        /* background-attachment: fixed; */
         
     }
 
@@ -574,7 +572,10 @@
         transform: scale(1.05);
     }
 
-
+    .sobremim {
+        margin: auto;
+        width: 500px;
+    }
 
 
     /* corpo */
