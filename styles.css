@@ -165,9 +165,15 @@
     }
     
     .projeto img {
-        width: 100%;
+        /* width: 100%;
         height: auto;
-        border-radius: 8px;
+        border-radius: 8px; */
+
+        width: 100%;
+        border-radius: 10px;
+        margin-bottom: 1rem;
+        object-fit: cover;
+        max-height: 180px;
     }
     
     .projeto h3 {
