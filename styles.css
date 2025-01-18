@@ -1,4 +1,17 @@
-/* Reset básico */
+/* tela pequena */
+
+@media (min-width: 360px) {
+    header {
+        /* padding: 0.5rem 0; */
+        
+    }
+
+    .topo {
+        background-color: #ffdd57;
+        width: 450px;
+    }
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -20,7 +33,7 @@ header {
     top: 0;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
 }
 
 header nav ul {
@@ -65,23 +78,30 @@ section {
     flex-wrap: wrap;
 }
 
-.home-container {
+/* .home-container {
     display: flex;
     align-items: center;
     gap: 2rem;
     max-width: 1200px;
     width: 100%;
-}
+} */
 
 .home-text {
     flex: 1;
-    text-align: left;
+    /* text-align: left; */
+    /* background-color: #005f99; */
+    /* margin-top: 300px; */
+    /* display: flex; */
 }
+
 
 .home-photo {
     flex: 1;
     display: flex;
-    justify-content: center;
+    display: block;
+    margin: auto;
+    /* justify-content: center; */
+    
 }
 
 .home-photo img {
