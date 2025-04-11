@@ -51,4 +51,4 @@ O layout foi desenvolvido com técnicas de design responsivo, garantindo uma boa
 
 ---
 
-Desenvolvido com 💙 por **Natasha Gleiciane Andrade de Queiroz**
+Desenvolvido com 💙 por **Natasha**
