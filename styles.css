@@ -246,6 +246,7 @@
         line-height: 1.6;
         color: #333;
     }
+
     .topo > a {
         text-align: center;
         margin: auto;
@@ -293,7 +294,6 @@
         color: #005f99;
         padding: 8rem 2rem;
     } */
-
 
     #home {
         background: #e8f5ff;
