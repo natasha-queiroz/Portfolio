@@ -54,7 +54,6 @@
         padding: 8rem 2rem;
     } */
 
-
     #home {
         background: #e8f5ff;
         color: #005f99;
@@ -80,7 +79,6 @@
         /* margin-top: 300px; */
         /* display: flex; */
     }
-
 
     .home-photo {
         flex: 1;
@@ -199,7 +197,6 @@
     .projeto a:hover {
         background-color: #0056b3;
     }
-
 
     .projeto:hover {
         transform: scale(1.05);
