@@ -351,7 +351,6 @@
 
 
 
-
     /* corpo */
 
     #sobre, #habilidades, #projetos, #contato {
@@ -504,7 +503,6 @@
         
     }
 
-
     header nav a {
         color: #fff;
         text-decoration: none;
@@ -556,7 +554,6 @@
         /* margin-top: 300px; */
         /* display: flex; */
     }
-
 
     .home-photo {
         flex: 1;
